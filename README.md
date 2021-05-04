@@ -26,8 +26,11 @@ ___
 - 🍣 - I love **Git** and **JavaScript**, and I also really dig building websites for people with **WordPress**
 - 🍁 - I'm passionate about learning new stuff! Right now I'm exploring the world of C++
 - 💬 - I'm open to collaborating!
-- - 🧗🏻‍♀️ - I love a good climbing gym
+- 🧗🏻‍♀️ - I love a good climbing gym
 - 💻 - I work at [Trilogy Education Services](https://www.trilogyed.com/) for [University of Connecticut's Coding Bootcamp](https://bootcamp.uconn.edu/coding/)
 - ✉️ - You can reach me at [LinkedIn](https://www.linkedin.com/in/matt-torcellini/)
 
-[![mtorcellini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtorcellini&hide_rank=true&hide=stars&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mtorcellini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtorcellini&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtorcellini&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
