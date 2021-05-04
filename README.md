@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mtorcellini/mtorcellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, hi
+### Hi, welcome!
 
-I'm **Matt** — a developer 
+I'm **Matt** — a developer engaged in teaching and the pursuit of better code!
 
 ![Pusheen the Cat, coding](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
 
