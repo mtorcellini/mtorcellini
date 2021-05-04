@@ -22,7 +22,7 @@ I'm **Matt** — a developer engaged in teaching and the pursuit of better code!
 ___
 
 - 🍣 - I love **Git** and **JavaScript**, and I also really dig building websites for people with **WordPress**
-- 🍁 - I'm passionate about learning new stuff! Right now I'm exploring the world of C++
+- 🍁 - I'm passionate about learning new stuff! Right now I'm exploring the world of **C++**
 - 💬 - I'm open to collaborating!
 - 🧗🏻‍♀️ - I love a good climbing gym
 - 💻 - I work at [Trilogy Education Services](https://www.trilogyed.com/) for [University of Connecticut's Coding Bootcamp](https://bootcamp.uconn.edu/coding/)
