@@ -26,7 +26,6 @@ ___
 - 💬 - I'm open to collaborating!
 - 🧗🏻‍♀️ - I love a good climbing gym
 - 💻 - I work at [New Breed](https://www.newbreedrevenue.com/) as a Developer 
-- 💻 - And also at [Trilogy Education Services](https://www.trilogyed.com/) for [University of Connecticut's Coding Bootcamp](https://bootcamp.uconn.edu/coding/)
 - ✉️ - You can reach me at [LinkedIn](https://www.linkedin.com/in/matt-torcellini/)
 
 [![mtorcellini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtorcellini&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
