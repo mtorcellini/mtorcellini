@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, welcome!
 
-I'm **Matt** — a developer engaged in teaching and the pursuit of better code!
+I'm a developer engaged in teaching and the pursuit of better code!
 
 ![Pusheen the Cat, coding](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
 
@@ -26,7 +26,6 @@ ___
 - 💬 - I'm open to collaborating!
 - 🧗🏻‍♀️ - I love a good climbing gym
 - 💻 - I work at [New Breed](https://www.newbreedrevenue.com/) as a Developer 
-- ✉️ - You can reach me at [LinkedIn](https://www.linkedin.com/in/matt-torcellini/)
 
 [![mtorcellini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtorcellini&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
